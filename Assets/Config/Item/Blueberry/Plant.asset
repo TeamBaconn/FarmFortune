@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea0ba86b6477a943844c4bac438cbac, type: 3}
+  m_Name: Plant
+  m_EditorClassIdentifier: 
+  entityPrefab: {fileID: 7980034589795436813, guid: c78ec53496c00c347bb66f651e72cbca, type: 3}
+  harvestItem: {fileID: 11400000, guid: 6eea78eafb0696449a4eed159cc6d2fd, type: 2}
+  harvestItemAmount: 1
+  timeToHarvest: 5
+  totalHarvest: 40
+  timeToDecompose: 450
+  plantSprites:
+  - {fileID: 124494952, guid: f8818ad4eb432334997d0f37fcfe7a23, type: 3}
+  - {fileID: 93694769, guid: f8818ad4eb432334997d0f37fcfe7a23, type: 3}
+  - {fileID: 673240313, guid: f8818ad4eb432334997d0f37fcfe7a23, type: 3}
+  plantDieSprite: {fileID: -101121833, guid: f8818ad4eb432334997d0f37fcfe7a23, type: 3}
