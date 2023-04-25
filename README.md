@@ -33,13 +33,13 @@ Time taken: 7 days
 
 ![Alt text](https://i.imgur.com/BwkoX1C.jpg)
 
-![Alt text](/GIF4.gif)
-
 ![Alt text](/GIF1.gif)
 
 ![Alt text](/GIF2.gif)
 
 ![Alt text](/GIF3.gif)
+
+![Alt text](/GIF4.gif)
 
 ![Alt text](https://i.imgur.com/ePlcLBY.jpg)
 
