@@ -2,6 +2,7 @@
 A simple, well structured farming simulator game made by Unity.
 
 Time taken: 7 days
+Download (Download "Easy build" for faster game pace, web build are not stable at the moment due to new Unity's build method): https://baconxpogo.itch.io/farm-fortune
 
 # Game checklist
 ✔️ The goal is to make as much money as possible by selling crops and milk. The game ends when the player earns 1,000,000 gold coins. Player can see instruction when game start and win message when reached the goal.
