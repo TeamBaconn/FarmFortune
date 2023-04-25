@@ -1,3 +1,5 @@
+![Alt text](/GIF3.gif)
+
 # Farm Fortune
 A simple, well structured farming simulator game made by Unity.
 
@@ -42,8 +44,6 @@ Download "Easy build" for faster game pace. Web build are not stable at the mome
 ![Alt text](/GIF1.gif)
 
 ![Alt text](/GIF2.gif)
-
-![Alt text](/GIF3.gif)
 
 ![Alt text](/GIF4.gif)
 
