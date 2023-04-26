@@ -5,7 +5,7 @@ A simple, well structured farming simulator game made by Unity.
 
 Time taken: 7 days
 
-100% system self implemented during this time (not include some Utils function). This game using hand-draw art and art & music from free resources online (youtube, itch.io).
+100% system self implemented during this time (not include some Utils function). This game use hand-drawing art and art & music from free resources online (youtube, itch.io).
 
 Download: https://baconxpogo.itch.io/farm-fortune
 
